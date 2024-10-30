@@ -1,0 +1,41 @@
+.kc_column, .kc_column_inner {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+.department-sidebar .link-box, .need-help {
+    margin-left: 37px;
+}
+.sidebar {
+    padding-top: 5px !important;
+}
+
+.department-list-item {
+    list-style-type: none;
+}
+
+.overlapped-top {
+    margin-top: -50px;
+    position: relative;
+    z-index: 20;
+}
+.brands.slide-item {
+    list-style-type: none;
+}
+
+
+/* Contact Form Button Style */
+.contact-btn-style {
+    position: relative;
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 20px !important;
+    padding: 15px 30px !important;
+    font-weight: 700 !important;
+    background: #222222 !important;
+    letter-spacing: 2.3px;
+    text-transform: uppercase;
+}
+.sec-title.text-center.contact_heading span {
+    color: #fff;
+}
